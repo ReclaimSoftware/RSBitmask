@@ -1,5 +1,7 @@
 **A simple bitmask library**
 
+[![Build Status](https://secure.travis-ci.org/ReclaimSoftware/RSBitmask.png)](http://travis-ci.org/ReclaimSoftware/RSBitmask)
+
 ```c
 typedef struct {
   uint64_t capacityBits;
